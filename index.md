@@ -20,10 +20,10 @@ Illinois Institute of Technology 2006
 ## Prototyping in Industry
 
 ### Manufacturing Engineer, Prototype Designer, Lecturer
-Hammes Hacks 
+[Hammes Hacks](hammeshacks.com) 
 
 July 2016 - Present
-* Webpage: hammeshacks.com, Youtube: hammeshacks
+* Youtube: [hammeshacks](https://www.youtube.com/channel/UCuMGhT5u-Y6Ju8j4m7s8X2A)
 * Studied embedded systems engineering
 * Designed PCBs and programmed microcontrollers  
 * Developed, manufactured and sold hundreds of electronics kits
