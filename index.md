@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages
+# Dr. Emily Hammes
 
-You can use the [editor on GitHub](https://github.com/emilyhammes/emilyengineering/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Strengths
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Modeling transport phenomena, experimental product validation and device design: I am looking for a position which will draw on my expertise in chemical/biological engineering and rapid prototyping.
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Swiss Federal Institute of Technology, Lausanne ETH-Lausanne/EPFL 2016
+Ph.D. in Advanced Manufacturing 
 
-```markdown
-Syntax highlighted code block
+Illinois Institute of Technology 2007
+M.S. in Biological Engineering
 
-# Header 1
-## Header 2
-### Header 3
+Illinois Institute of Technology 2006 
+B.S. in Biomedical Engineering, Cell and Tissue Engineering
 
-- Bulleted
-- List
+## Prototyping in Industry
 
-1. Numbered
-2. List
+Hammes Hacks 
+July 2016 - Present
+Manufacturing Engineer, Prototype Designer, Lecturer 
+\item Webpage: hammeshacks.com, Youtube: hammeshacks
+\item Studied embedded systems engineering
+\item Designed PCBs and programmed microcontrollers  
+\item Developed, manufactured and sold hundreds of electronics kits
+\item Conducted workshops in the USA, Netherlands, Germany, Czech Republic and Switzerland
 
-**Bold** and _Italic_ and `Code` text
+Centre Suisse d’Electronique et de Microtechnique (CSEM)
+February 2012 - June 2016
+Research Engineer, Doctoral Studies
+\item Led the technical integration of the [Intasense Air Quality Monitor](intasense) prototype
+\item Designed the microfluidics and preconditioning unit for the [Intasense Air Quality Monitor](intasense)
+\item Simulated heat and mass transport and physical adsorption of chemicals through microfluidic systems
+\item Experimentally tested microfluidic systems
+\item Used rapid prototyping methods to construct devices and components for air quality monitoring, allergy testing, micropumps and the Swiss watch industry.
 
-[Link](url) and ![Image](src)
-```
+## Academic Research Experiences
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Max Planck Institute & Otto-von-Guericke University
+September 2009 - December 2011
+Research Assistant
+\item Mathematically modeled mesenchymal stem cell differentiation using mass action kinetics
+\item Assisted with lectures
+\item Proofread academic publications and contracts in English
 
-### Jekyll Themes
+École Polytechnique Fédérale de Lausanne (EPFL)
+June 2008 - May 2009
+Research Assistant
+\item Developed stochastic computational models to study kinase cascades
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emilyhammes/emilyengineering/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Illinois Institute of Technology
+September 2005 - May 2007
+Student Research Assistant
+\item Used surface initiated non-contact photolithography to create three-dimensional Poly(Ethylene Glycol) (PEG) scaffolds
+\item Wrote laboratory protocols
+\item Helped establish the Papavasiliou Lab
+\item Maintained laboratory equipment 
 
-### Support or Contact
+Illinois Institute of Technology
+January 2005 - December 2005
+Student Research Assistant
+\item Team Leader, responsible for delivering reports and organizing meetings
+\item Modeled reactions in an oscillating metabolic pathway in e-coli
+\item Conducted cellular lab work
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Marquette University & The Rehabilitation Institute of Chicago
+June 2005 - August 2005
+Student Research Assistant
+\item Studied the spinal cord and the brain  during novel human movement
+\item Worked in a clinical setting to acquire data from healthy controls and stroke survivors
+\item Developed computer programs used to automate data analysis
+
+##Technical Skills
+
+Drafting: Solidworks, DraftSight, Fusion360
+Physics Simulations:MATLAB, COMSOL Multiphysics, R
+Rapid Prototyping: Laser cutting, Milling, 3D printing, Carpentry
+Electronics: Soldering, PCB design, Programming Microcontrollers, Sourcing Parts
+Biological: PCR, Electrophoresis, Cell Culture 
+Chemical:  Noncontact Photolithography, Adsorption Isotherms, Toxic Gas Protocols
+Other: Scientific Diving (SCUBA)
+Communication: Microsoft Word, Microsoft PowerPoint, LaTeX, Video Editing
+
+## Languages
+English: Native Language
+German: B2; B1 certified 
+
+##Leadership
+Technical Integration Lead Intasense first prototype 
+Teaching Assistant: Introduction to Systems Theory, Systems Theory and Introduction to Systems Biology 
+Team Leader: Inter-Professional Project: Engineering Novel Organisms 
