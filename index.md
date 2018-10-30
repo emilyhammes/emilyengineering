@@ -20,7 +20,7 @@ Illinois Institute of Technology 2006
 ## Prototyping in Industry
 
 ### Manufacturing Engineer, Prototype Designer, Lecturer
-[Hammes Hacks](hammeshacks.com) 
+[Hammes Hacks](http://hammeshacks.com/) 
 
 July 2016 - Present
 * Youtube: [hammeshacks](https://www.youtube.com/channel/UCuMGhT5u-Y6Ju8j4m7s8X2A)
