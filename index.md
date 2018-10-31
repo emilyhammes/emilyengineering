@@ -1,5 +1,7 @@
 # Dr. Emily Hammes
 
+<img alt="emily" src="Chaos_Communication_55784177.jpg.jpg" width="60%" />
+
 ## Strengths
 
 Modeling transport phenomena, experimental product validation and device design: I am looking for a position which will draw on my expertise in chemical/biological engineering and rapid prototyping.
