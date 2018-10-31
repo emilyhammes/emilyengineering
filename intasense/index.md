@@ -31,7 +31,7 @@ Electronic Devices, 2017
 
 G. G. Mandayo, J. Gonzalez-Chavarri, I. Castro-Hurtado, I. Ayerdi, E. Castaño, E. Hammes, P. Ryser, H. Knapp, “The INTASENSE Project Approach for Toxic Gas Detection Indoors,” International Congress on Architectural Envelopes, San Sebastian, 2015.
 
-E. Hammes, J. Gonzalez-Chavarri, L. Henwood-Moroney, G. G. Mandayo, P. Ryser and H. F. Knapp, “[he Transport Phenomena within the  INTASENSE Indoor Air Quality Monitor Design](https://aiche.confex.com/aiche/s15/webprogram/Paper400000.html),” American Institute of Chemical Engineers, Austin, 2015.
+E. Hammes, J. Gonzalez-Chavarri, L. Henwood-Moroney, G. G. Mandayo, P. Ryser and H. F. Knapp, “[The Transport Phenomena within the  INTASENSE Indoor Air Quality Monitor Design](https://aiche.confex.com/aiche/s15/webprogram/Paper400000.html),” American Institute of Chemical Engineers, Austin, 2015.
 
 E. Hammes, J. Gonzalez-Chavarri, L. Henwood-Moroney, G. G. Mandayo, P. Ryser and H. F. Knapp, “A Smart Air Quality Monitor for Energy Efficient Buildings,” in Smart Systems Integration, Copenhagen, 2015.
 
