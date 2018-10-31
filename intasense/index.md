@@ -1,5 +1,5 @@
 # Intasense Air Quality Monitor
-Intasense was a European Commission funded project established to create a novel air quality monitor for use in energy efficient buildings [www.intasense.e](www.intasense.eu). It incorporated engineers and researchers from eight organizations in five countries within Europe. While at [CSEM](https://www.csem.ch/home), I lead the integration of the first prototype of this monitor, developed the microfluidics and preconditioning unit for the devices and developed computational models of gas transport though the system. These computational models were the focus of my doctoral thesis.
+Intasense was a European Commission funded project established to create a novel air quality monitor for use in energy efficient buildings [www.intasense.eu](http://www.intasense.eu/). It incorporated engineers and researchers from eight organizations in five countries within Europe. While at [CSEM](https://www.csem.ch/home), I lead the integration of the first prototype of this monitor, developed the microfluidics and preconditioning unit for the devices and developed computational models of gas transport though the system. These computational models were the focus of my doctoral thesis.
 
 ## Prototype of the Intasense Air Quality Monitor
 
