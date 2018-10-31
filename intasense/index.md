@@ -19,23 +19,19 @@ The gas sensors used in the Intasense Air Quality Monitor are cross sensitive to
 
 ### Journal Articles
 
-G. G. Mandayo, J. Gonzalez-Chavarri, E. Hammes, H. Newton, I. Castro-Hurtado, I. Ayerdi, H. Knapp, A. Sweetman, C. Hewitt and E. Castaño, “System to Control Indoor Air Quality in Energy Efficient Buildings,” Urban Climate, 2014.
-
-Georgia Papavasiliou, Preedarat Songprawat, Victor Pérez-Luna, Emily Hammes, Megan Morris, Yu-Chieh Chiu, and Eric Brey, “Three-Dimensional Patterning of Poly(Ethylene Glycol) Hydrogels Through Surface-Initiated Photopolymerization,” Tissue Engineering Part C: Methods, 2008
+G. G. Mandayo, J. Gonzalez-Chavarri, E. Hammes, H. Newton, I. Castro-Hurtado, I. Ayerdi, H. Knapp, A. Sweetman, C. Hewitt and E. Castaño, “[System to Control Indoor Air Quality in Energy Efficient Buildings](https://www.sciencedirect.com/science/article/pii/S2212095514000819),” Urban Climate, 2014.
 
 ### Invited Conference Presentations
 G. G. Mandayo, J. Gonzalez-Chavarri, I. Castro-Hurtado,  E. Castaño,  T. Geiling, M. Hoffmann, E. Hammes, P. Ryser, H. Knapp, R. Heslop, J. Jones, P. Fitzpatrick  and R. Bell, “System to Control Indoor Air Quality in Energy Efficient Buildings,” EuNetAir, Copenhagen, 2013
 
-E. Hammes and R. Findeisen, “Modeling Mesenchymal Stem Cell Differentiation,” The US-Turkey Advanced Study Institute on Global Healthcare Challenges, Adrasan, 2010
-
 ### Conference Proceedings
 J. González-Chávarri, E. Hammes, L. Parellada, I. Castro-Hurtado, E. Castaño, I. Ayerdi, H. Knapp, G. G.
-Mandayo, “Multisensor Platform for Indoor Air Quality Measurements,” Spanish Conference on
+Mandayo, “[Multisensor Platform for Indoor Air Quality Measurements](https://ieeexplore.ieee.org/document/7905239?reload=true),” Spanish Conference on
 Electronic Devices, 2017
 
 G. G. Mandayo, J. Gonzalez-Chavarri, I. Castro-Hurtado, I. Ayerdi, E. Castaño, E. Hammes, P. Ryser, H. Knapp, “The INTASENSE Project Approach for Toxic Gas Detection Indoors,” International Congress on Architectural Envelopes, San Sebastian, 2015.
 
-E. Hammes, J. Gonzalez-Chavarri, L. Henwood-Moroney, G. G. Mandayo, P. Ryser and H. F. Knapp, “The Transport Phenomena within the  INTASENSE Indoor Air Quality Monitor Design,” American Institute of Chemical Engineers, Austin, 2015.
+E. Hammes, J. Gonzalez-Chavarri, L. Henwood-Moroney, G. G. Mandayo, P. Ryser and H. F. Knapp, “[he Transport Phenomena within the  INTASENSE Indoor Air Quality Monitor Design](https://aiche.confex.com/aiche/s15/webprogram/Paper400000.html),” American Institute of Chemical Engineers, Austin, 2015.
 
 E. Hammes, J. Gonzalez-Chavarri, L. Henwood-Moroney, G. G. Mandayo, P. Ryser and H. F. Knapp, “A Smart Air Quality Monitor for Energy Efficient Buildings,” in Smart Systems Integration, Copenhagen, 2015.
 
