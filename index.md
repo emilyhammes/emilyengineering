@@ -1,6 +1,6 @@
 # Dr. Emily Hammes
 
-<img alt="emily" src="Chaos_Communication_55784177.jpg.jpg" width="60%" />
+<img alt="emily" src="Chaos_Communication_55784177.jpg" width="60%" />
 
 ## Strengths
 
